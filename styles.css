@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+.container{
+    background-color: white;
+    margin-bottom: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 130px;
+    border-radius: 25px;
+}
+h2{
+    margin-bottom: 35px;
+    margin-top: 30px;
+    text-align: center;
+}
+*{
+    font-family: arial;
+}
+.cities{
+    text-align: center;
+    padding-top: 30px;
+    font-style: italic;
+}
+p{
+    text-align: center;
+}
+.cities{
+    margin-bottom: 22px;
+}
+#d1, #d2, #d3{
+    margin-bottom: 19px;
+}
+.containers{
+    background-color: white;
+    margin-bottom: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 130px;
+    border-radius: 25px;
+    
+}
